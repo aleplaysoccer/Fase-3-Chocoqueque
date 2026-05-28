@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=personaje
+comment1.params=
+comment1.target=personaje()
+comment10.params=
+comment10.target=void\ win()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkKeys()
+comment4.params=
+comment4.target=void\ checkFall()
+comment5.params=
+comment5.target=void\ fall()
+comment6.params=
+comment6.target=boolean\ onGround()
+comment7.params=ground
+comment7.target=void\ moveToGround(greenfoot.Actor)
+comment8.params=
+comment8.target=void\ jump()
+comment9.params=
+comment9.target=void\ death()
+numComments=11

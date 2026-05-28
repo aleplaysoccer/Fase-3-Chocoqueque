@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=manzana
+comment1.params=
+comment1.target=manzana()
+comment1.text=\r\n\ Constructor\:\ Se\ ejecuta\ cuando\ se\ crea\ el\ objeto\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ manzana\ wants\ to\ do.\r\n
+numComments=3
